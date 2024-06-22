@@ -1,3 +1,3 @@
-# temporal-portfolio
+# portfolio
 
-This is my temporary portfolio until I get to it.
+A simple portfolio website.
